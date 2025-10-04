@@ -24,3 +24,4 @@ with open("number", "r") as file:
         total += int(line)
 print(total)
 
+
