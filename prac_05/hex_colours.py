@@ -19,5 +19,3 @@ while color_name != "":
         print("Invalid color name")
 
     color_name = input("\nEnter color name: ").strip()
-
-print("Goodbye!")
