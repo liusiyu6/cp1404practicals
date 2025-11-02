@@ -1,6 +1,3 @@
-"""CP1404/CP5632 Practical - Programming Language class example."""
-
-
 class ProgrammingLanguage:
     """Represent a Programming Language object."""
 
