@@ -1,4 +1,4 @@
-"""CP1404/CP5632 Practical - Client code to use the ProgrammingLanguage class."""
+
 
 from prac_06.programming_language import ProgrammingLanguage
 
@@ -12,7 +12,7 @@ def main():
     print(python)
 
     languages = [python, ruby, visual_basic]
-    print("The dynamically typed languages are:")
+    print("The dynamically typed languages.csv are:")
     for language in languages:
         if language.is_dynamic():
             print(language.name)
