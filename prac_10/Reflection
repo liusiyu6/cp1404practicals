@@ -1,0 +1,64 @@
+# CP1404 Practical Reflection
+
+Write short but thoughtful answers to each of the following.
+Replace each `...` with your meaningful answer.
+
+## Estimates
+
+Regarding the **estimates** that you did for practical tasks...
+
+### How was your estimate accuracy usually?
+
+My estimates were often close but not completely accurate. I tended to underestimate tasks that involved debugging or
+unfamiliar libraries.
+
+### How did your estimate accuracy improve or change during the course of the subject?
+
+Throughout the subject, I became better at predicting which tasks would take longer. I started adding buffer time for
+reading documentation and testing.
+
+### What did you learn from doing these estimates?
+
+I learned to break tasks into smaller parts before estimating. This made my planning more realistic and helped me manage
+my workload better.
+
+## Code Reviews
+
+### What have you learned from being reviewed by other people?
+
+I learned the importance of readability, naming, and consistent style.
+
+### What have you learned from doing code reviews of other people?
+
+Reviewing others’ code helped me understand alternative solutions and improved my ability to identify unclear logic or
+inefficient structures.
+
+https://github.com/ZhangGuoyang1/cp1404_practicals
+https://github.com/DingZuotian/CP1404
+
+### Good Code Review 1
+
+https://github.com/ZhangGuoyang1/cp1404_practicals
+
+### Explanation
+
+I provided clear suggestions on naming and simplifying logic, and explained why the changes would improve readability.
+
+### Good Code Review 2
+
+https://github.com/DingZuotian/CP1404
+
+### Explanation
+
+This review included both positive feedback and constructive improvements. I pointed out potential edge cases and
+recommended clearer comments.
+
+## Practicals
+
+### Regarding the **practical tasks** overall, what would you change if you were in charge of the subject?
+
+I would include more guidance or examples for the more complex pracs, especially those involving external libraries or GUI.
+
+### What did you do really well for practicals in this subject?
+
+I stayed consistent each week, followed the style guide carefully, and improved my debugging and problem-solving skills.
